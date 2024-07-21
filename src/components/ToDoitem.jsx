@@ -1,7 +1,7 @@
 import React from "react";
 
 function ToDoItem(props){
-    
+    //todo : if once use to line -through  use this comment. 
     // const[isDone, setIsDone] = useState(false);
 
     // function handleClick(){
